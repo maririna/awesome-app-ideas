@@ -58,6 +58,14 @@ This app should resemble an HR type dashboard where a user can login and view in
 
 ### Docker Client
 
+### Energy Efficiency App 
+App that can be used for guidance when making home renovations. It should have three sections, 
+one for assessment of the current condition of the house/flat, based on the energy bills, house dimensions 
+(floor area, windows and walls area etc); second with suggested measures that can be taken to improve the
+Energy Efficiency of the dwelling - changing light bulbs, placing thermal insulation on the walls and ceiling;
+windows replacement etc. (here manufacturers and contractors can be advertised) and third part
+with multiple usefull topics for improving Energy Efficiency at home, like info-part with pictures and statistics.
+
 ### Employee manager
 
 ### eReader
